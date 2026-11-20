@@ -1,6 +1,6 @@
 # Screw Scissor Lift Mechanism (SolidWorks)
 
-[Screw%20scissor%20lift%20mechanism.jpg]
+[Screw%20scissor%20lift%20mechanism.JPG]
 
 A complete 3D CAD assembly of a **two-stage screw-driven scissor lift mechanism** modeled and assembled in **SolidWorks** (MMGS units). The assembly combines 6 unique native `.SLDPRT` components (25 total instances) into a symmetric dual X-stage linkage driven by a central lead screw and handwheel.
 
